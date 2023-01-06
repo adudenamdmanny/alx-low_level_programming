@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 #ifndef _MAIN_H
 #define _MAIN_H
+=======
+#ifndef _FUNCTIONS_H
+#define _FUNCTIONS_H
+>>>>>>> b4dd4da158b06d4248d24240c1c62dc64a65073e
 int _putchar(char c);
 int _islower(int c);
 int _isalpha(int c);
