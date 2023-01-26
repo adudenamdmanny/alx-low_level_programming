@@ -38,4 +38,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Emmanuel Essien** - [adudenamdmanny](https://github.com/adudenamdmanny)
+* **Emmanuel James Essien** - [adudenamdmanny](https://github.com/adudenamdmanny)
