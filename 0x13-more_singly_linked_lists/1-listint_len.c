@@ -8,7 +8,7 @@
  * Return: Number of elements in list
  */
 
-size_t list_len(const list_t *h)
+size_t listint_len(const listint_t *h)
 {
 	unsigned int size = 0;
 
